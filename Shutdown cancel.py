@@ -2,5 +2,5 @@
 # Shutdown cancel.py
 # this file is created forcanceling shutdown computer
 
-import os
-os.system('shutdown -a')
+import os # use os
+os.system('shutdow -a') # your prgramm
