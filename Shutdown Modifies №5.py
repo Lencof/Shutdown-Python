@@ -1,10 +1,7 @@
 # __Author__ __Lencof__
 # Shutdown Modifies №5.py
 
-import os
-import sys 
-import time
-import platform
+import os, sys, time, platform
 
 def shutdown():
     return os.system('shutdown -s -t 0')
