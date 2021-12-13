@@ -2,8 +2,8 @@
 # Shutdown Modified №3.py
 # A new Shutdown is created this code turns off the computer and after shutdown creates a file with a note on the desktop
 
-import os # use os
-os.system('shutdown -s -t 0') # your programm
+import os
+os.system('shutdown -s -t 0') 
 
 README = '''
 Shutdown done
