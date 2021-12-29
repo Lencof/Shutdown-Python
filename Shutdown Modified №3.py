@@ -13,7 +13,6 @@ Shutdown done
 f = open('README.txt', 'w')
 # Write text to file
 f.write(README)
-# Close the file
 f.close()
 
 # If no mode is specified
